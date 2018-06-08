@@ -3,7 +3,7 @@
 </br>
 Make Sure You Have Python 2.7 & Pip Installed first
 </br>
-Begin by opening the "install_dependencies" 
+Begin by opening the "install_dependencies" file
 </br>
 Click the "run" file and answer the prompted questions</strong>
 
