@@ -3,7 +3,7 @@ from random import randint
 
 print('====================')
 print('NetNut Proxy Creator')
-print('   By Kennyd')
+print('    By Kennyd')
 print('====================')
 
 username = raw_input('username: ')
