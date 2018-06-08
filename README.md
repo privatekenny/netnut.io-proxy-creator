@@ -6,4 +6,4 @@ pip install random
 NO NEED TO OPEN THE SCRIPT
 </br>
 Click the "run" file and answer the prompted questions</strong>
-</font-size>
+</font>
