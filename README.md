@@ -1,5 +1,5 @@
 # Netnut Proxy Creator For WatchDogs
-<font-size>15<strong>Make Sure You Have Python & Pip Installed
+<font-size=15>Make Sure You Have Python & Pip Installed
 </br>
 pip install random
 </br>
