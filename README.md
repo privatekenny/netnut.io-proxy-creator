@@ -1,5 +1,5 @@
 # Netnut Proxy Creator For WatchDogs
-## NO NEED TO OPEN THE "proxy.py" SCRIPT
+## NO NEED TO OPEN THE "proxy.py" FILE
 </br>
 Make Sure You Have Python & Pip Installed
 </br>
