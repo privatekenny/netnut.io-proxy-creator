@@ -1,8 +1,8 @@
 # Netnut Proxy Creator For WatchDogs
-<strong>Make Sure You Have Python & Pip Installed</strong>
+<strong>Make Sure You Have Python & Pip Installed
 </br>
 pip install random
 </br>
 NO NEED TO OPEN THE SCRIPT
 </br>
-Click the "run" file and answer the prompted questions
+Click the "run" file and answer the prompted questions</strong>
