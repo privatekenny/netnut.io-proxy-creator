@@ -7,5 +7,5 @@ install dependency by opening the "install_dependencies"
 </br>
 Click the "run" file and answer the prompted questions</strong>
 
-### You can view your proxy in the logs.txt 
+### You can view your proxies in the logs.txt 
 
