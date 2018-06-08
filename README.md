@@ -1,4 +1,8 @@
-# NetnutProxyCreatorForWatchDogs
-INSTALL DEPENDENCIES
+# Netnut Proxy Creator For WatchDogs
+Make Sure You Have Python & Pip Installed
 </br>
-PIP INSTALL RANDOM
+pip install random
+</br>
+NO NEED TO OPEN THE SCRIPT
+</br>
+Click the "run" file and answer the prompted questions
