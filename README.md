@@ -1,7 +1,7 @@
 # Netnut Proxy Creator For WatchDogs
 ## NO NEED TO OPEN THE "proxy.py" FILE
 </br>
-Make Sure You Have Python & Pip Installed first
+Make Sure You Have Python 2.7 & Pip Installed first
 </br>
 Begin by opening the "install_dependencies" 
 </br>
