@@ -2,7 +2,7 @@ import random
 from random import randint
 
 print('====================')
-print('NetNut Proxy Creator')
+print('netnut.io Proxy Creator')
 print('    By Kennyd')
 print('====================')
 
